@@ -1,0 +1,6 @@
+charset, Shift_JIS
+name,ŽB‰eƒ^ƒCƒ€
+type,ghost
+directory,AV
+refresh,0
+
