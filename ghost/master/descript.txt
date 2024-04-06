@@ -1,7 +1,9 @@
 charset,Shift_JIS
 name,B‰eƒ^ƒCƒ€
 type,ghost
-craftmanw,
+craftman,dennzi
+craftmanw,“d¥
+craftmanurl,http://denmemo31.blog.fc2.com/
 readme,readme.txt
 sakura.name,
 sakura.seriko.defaultsurface,0

@@ -11,3 +11,5 @@
 ÅA	ÅA\w7
 !?	!?\w9\w4
 !!	!!\w9\w4
+??	\_u[0xFF1F]
+?v	ÅH\f[color,#ff8282]\_u[0x2764]\f[color,default]\w9\w8

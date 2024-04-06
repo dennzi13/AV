@@ -5,6 +5,9 @@ shiori互換dll『里々（さとり）』用辞書
 　ネットワーク更新の際のデータ置き場とか。 
 　おすすめ／ポータルなURLの一覧とか。 
 
+＠balloon_tooltip
+（nop,（split,（Ｒ１）,（バイト値,1）））（call，（Ｓ０）.balloon_tooltip）
+
 
 ＠portalrootbutton.caption
 きほん(&P)
@@ -32,6 +35,8 @@ Read me(&R)
 1 
 ＃消滅指示を表示するかどうか。1で表示、0で非表示（色が変わり選択できなくなる）です。
 
+＃＠homeurl
+＃https://raw.githubusercontent.com/dennzi13/AV/master/
 
 
 ＠username
@@ -41,6 +46,8 @@ Read me(&R)
 ＠dressuprootbutton.visible
 0
 
+＠tooltip
+（when、（ツールチップ表示）＝＝１、（call、（Ｒ３）（Ｒ４）ツールチップ））
 
 ＊コメント
 
@@ -59,20 +66,9 @@ Read me(&R)
 
 
 ＊sakura.recommendsites
-fiddle-de-dee
-http://fiddle-de-dee.sakura.ne.jp/
+超電磁力工房
+http://denmemo31.blog.fc2.com/
 
-：このパッケージの配布元です。
-：何かあったら連絡してやってな。
-
-＊sakura.recommendsites
-「Rポストと狛犬」配布ページ
-http://emily.shillest.net/specwiki/index.php?Wiz%E2%98%85%2F%EF%BC%B2%E3%83%9D%E3%82%B9%E3%83%88%E3%81%A8%E7%8B%9B%E7%8A%AC
-
-：たまには確認してね。
-更新されてるかもしれないし。
-：期待は禁物。
-：狛犬はまたそういうこという…。
 
 ＃＊sakura.portalsites
 ＃-
@@ -98,14 +94,9 @@ http://ghosttown.mikage.jp/
 伺かチャット
 http://ukgkchat.saloon.jp/index.php?FrontPage
 
-伺かの話題のチャット。
-わからないことがあったら質問できるぞ。
-：ブラウザだけでも見られます。
-
 ＊sakura.portalsites
 Disc-2 
 http://disc2.s56.xrea.com/ 
-：総合情報サイトです。
 
 ＊sakura.portalsites
 -
@@ -132,8 +123,6 @@ http://usada.sakura.vg/
 里々φ/整備班カスタム
 http://ms.shillest.net/
 
-：現時点で更新されている里々です。
-
 ＊sakura.portalsites
 里々φ（さとりφ） 
 http://www.geocities.co.jp/SiliconValley-Cupertino/8536/ 
@@ -145,8 +134,6 @@ http://www.geocities.co.jp/SiliconValley-Cupertino/8536/
 里々Wiki
 http://soliton.sub.jp/satori/
 
-：里々に関するＴｉｐがまとまっているような気がします。
-：うむ。
 
 ＊sakura.portalsites
 里々変数辞典
@@ -155,9 +142,6 @@ http://members2.jcom.home.ne.jp/he-noki/uka-satori.html
 ＊sakura.portalsites
 postic
 http://navy.nm.land.to/post/
-
-：私たちにすでに適用されているサプリメントの元配布元です。
-：ややこしいことをしたいなら一読の価値あり。
 
 ＊sakura.portalsites
 -
