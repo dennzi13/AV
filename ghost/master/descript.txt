@@ -5,7 +5,7 @@ craftman,dennzi
 craftmanw,“d¥
 craftmanurl,http://denmemo31.blog.fc2.com/
 readme,readme.txt
-sakura.name,
+sakura.name,ƒ}ƒ†ƒ~
 sakura.seriko.defaultsurface,0
 kero.name,
 kero.seriko.defaultsurface,10
