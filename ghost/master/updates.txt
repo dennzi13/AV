@@ -4,12 +4,12 @@ file,install.txt542ba5413d4900b92cf0c12a15445855size=76date=2022-08-14T20:37:
 file,readme.txt8f0b7d225ced300db057e57cd1125e73size=2937date=2025-04-19T15:09:03
 file,ghost/master/descript.txt7ca7dd22ce1ec56bbc98c28e19f74ea6size=635date=2024-07-18T21:37:24
 file,ghost/master/dic00_system.txt593267006991c15eade60e4701a6d6a7size=1393date=2015-03-28T17:31:49
-file,ghost/master/dic01_Base.txt5051627970991390f1a12bede632d639size=712date=2024-03-30T17:16:24
+file,ghost/master/dic01_Base.txtf8797e012ccec7b76db5ffcb2645ad6esize=2316date=2025-07-26T11:28:52
 file,ghost/master/dic02_Event.txt322d85aa474f1a63948fbb9b803caa9esize=4719date=2024-03-30T16:57:39
-file,ghost/master/dic03_Menu.txtd2fa63681fec577b56f177836f7d6191size=7914date=2025-04-19T16:08:09
+file,ghost/master/dic03_Menu.txt564415eeb1bedc5ae14a85d3eab4a135size=8129date=2025-07-25T18:17:35
 file,ghost/master/dic06_String.txt388cb97d48a33de92aed07bf5b95815bsize=3154date=2024-07-18T21:27:55
 file,ghost/master/dic07_Time.txte5e51403888b6c2e5e20e5a002ddee1bsize=214date=2022-04-30T01:20:27
-file,ghost/master/dic08_Sawari.txte38a881539b450eed87b794a80b88611size=19717date=2024-03-31T01:03:40
+file,ghost/master/dic08_Sawari.txt475abaa53232eca750e9fcf9b6ed819bsize=19955date=2025-07-25T17:51:53
 file,ghost/master/dic09_Function.txt079ce0d71b4360b509a529508936f2f5size=2304date=2024-03-30T17:50:45
 file,ghost/master/dic10_Interview.txtd434a17e07aa90b70976b63af3fec794size=49245date=2024-03-30T18:26:51
 file,ghost/master/dic11_speech.txt9fc1ea5d4aab902f8dec98f4badc4201size=3798date=2024-03-30T18:29:37
